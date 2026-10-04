@@ -1,0 +1,113 @@
+{
+  "brand": {
+    "name": "VietinBank",
+    "logoUrl": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/Logo%20VietinBank.png",
+    "appName": "VietinBank iPay",
+    "supportTitle": "Cổng Hỗ Trợ & Hướng Dẫn Khách Hàng Trực Tuyến"
+  },
+  "navigation": {
+    "homeLabel": "Menu chính",
+    "guideLabel": "Hướng dẫn chi tiết",
+    "videoLabel": "Video hướng dẫn",
+    "supportLabel": "Liên hệ tư vấn",
+    "endSessionLabel": "Kết thúc cuộc trò chuyện",
+    "backToMenuLabel": "Quay lại menu chính"
+  },
+  "home": {
+    "question": "Anh/chị đang gặp khó khăn với nội dung nào?",
+    "subtitle": "Vui lòng chọn nội dung bên dưới để xem hướng dẫn chi tiết từng bước kèm hình ảnh minh hoạ trên ứng dụng VietinBank iPay.",
+    "actionLabel": "Xem hướng dẫn từng bước"
+  },
+  "advisor": {
+    "name": "Đỗ Thị Kim Nhi",
+    "role": "Chuyên viên tư vấn VietinBank",
+    "phoneDisplay": "076.583.0061",
+    "phoneHref": "tel:0765830061"
+  },
+  "feedback": {
+    "questionTitle": "Quý khách thực hiện theo hướng dẫn đã ổn hay chưa?",
+    "questionSubtitle": "Hãy cho chúng tôi biết kết quả thực hiện của Quý khách để được hỗ trợ kịp thời.",
+    "resolvedButton": "Đã ổn — Quay lại menu chính",
+    "unresolvedButton": "Chưa ổn — Cần hỗ trợ thêm",
+    "unresolvedMessage": "Cảm ơn Quý khách đã phản hồi. Quý khách có thể liên hệ Chuyên viên tư vấn Đỗ Thị Kim Nhi – số điện thoại: 076.583.0061 để hỗ trợ trực tiếp. Em sẽ cố gắng cải thiện để phục vụ Quý khách tốt hơn!",
+    "resolvedConfirmation": "Quý khách đã hoàn tất các bước hướng dẫn. Quý khách có muốn quay lại menu chính để xem nội dung khác hoặc kết thúc phiên hỗ trợ?"
+  },
+  "endConversation": {
+    "title": "Phiên hỗ trợ đã kết thúc",
+    "message": "Cảm ơn Quý khách đã sử dụng dịch vụ của VietinBank. Chúc Quý khách một ngày tốt lành!",
+    "restartButton": "Quay lại menu chính"
+  },
+  "topics": [
+    {
+      "id": "dong-the-mo-phong-toa-stk",
+      "indexNumber": "01",
+      "cardTitle": "1. Hướng dẫn đóng thẻ tín dụng và mở phong toả dành cho KH phát hành thẻ online bằng hình thức cầm cố sổ tiết kiệm",
+      "shortTitle": "Hướng dẫn đóng thẻ và mở phong toả sổ tiết kiệm",
+      "category": "Thẻ tín dụng & Tiết kiệm trực tuyến",
+      "estimatedTime": "6 bước thực hiện · Trên ứng dụng VietinBank iPay",
+      "summary": "Quy trình chuẩn giúp khách hàng tự thực hiện đóng thẻ tín dụng và đóng tài khoản thẻ tín dụng trên VietinBank iPay để hệ thống tự động giải tỏa sổ tiết kiệm cầm cố online.",
+      "youtubeVideo": {
+        "title": "Video hướng dẫn đóng thẻ tín dụng và mở phong toả sổ tiết kiệm trên VietinBank iPay",
+        "description": "Xem video trực quan trên ứng dụng YouTube để theo dõi toàn bộ thao tác thực tế từng bước.",
+        "buttonLabel": "Mở ứng dụng YouTube xem video hướng dẫn",
+        "url": "https://www.youtube.com/results?search_query=VietinBank+iPay+dong+the+tin+dung+mo+phong+toa+so+tiet+kiem"
+      },
+      "steps": [
+        {
+          "stepNumber": 1,
+          "stepCode": "1.1",
+          "title": "Bước 1: Đăng nhập vào App VietinBank Ipay và chọn mục thẻ",
+          "instruction": "Bước 1: Đăng nhập vào App VietinBank Ipay và chọn mục thẻ",
+          "detailNote": "Mở ứng dụng VietinBank iPay trên điện thoại, đăng nhập tài khoản của Quý khách và nhấn chọn mục \"Thẻ\" tại màn hình chính.",
+          "imageUrl": "https://raw.githubusercontent.com/kimnhi21000-tech/GIAIPHAPDONGTHEMOPT/main/1.1.JPEG",
+          "imageAlt": "Bước 1 - Đăng nhập vào App VietinBank iPay và chọn mục thẻ (Ảnh 1.1)"
+        },
+        {
+          "stepNumber": 2,
+          "stepCode": "1.2",
+          "title": "Bước 2: Chọn thẻ tín dụng và đóng hết tất cả thẻ tín dụng có trong danh sách thẻ",
+          "instruction": "Bước 2: Chọn thẻ tín dụng và đóng hết tất cả thẻ tín dụng có trong danh sách thẻ",
+          "detailNote": "Kiểm tra danh sách thẻ hiện có, chọn thẻ tín dụng cần xử lý và thực hiện đóng toàn bộ các thẻ tín dụng trong danh sách.",
+          "imageUrl": "https://raw.githubusercontent.com/kimnhi21000-tech/GIAIPHAPDONGTHEMOPT/main/1.2.JPEG",
+          "imageAlt": "Bước 2 - Chọn thẻ tín dụng và đóng hết tất cả thẻ tín dụng có trong danh sách thẻ (Ảnh 1.2)"
+        },
+        {
+          "stepNumber": 3,
+          "stepCode": "1.3",
+          "title": "Bước 3: Chọn đóng thẻ",
+          "instruction": "Bước 3: Chọn đóng thẻ",
+          "detailNote": "Tại giao diện quản lý chi tiết thẻ tín dụng, nhấn chọn chức năng \"Đóng thẻ\" và xác nhận thao tác.",
+          "imageUrl": "https://raw.githubusercontent.com/kimnhi21000-tech/GIAIPHAPDONGTHEMOPT/main/1.3.JPEG",
+          "imageAlt": "Bước 3 - Chọn đóng thẻ (Ảnh 1.3)"
+        },
+        {
+          "stepNumber": 4,
+          "stepCode": "1.4",
+          "title": "Bước 4: Quay lại màn hình chính chọn mục tài khoản =>> chọn thẻ =>> Chọn tài khoản thẻ tín dụng",
+          "instruction": "Bước 4: Quay lại màn hình chính chọn mục tài khoản =>> chọn thẻ =>> Chọn tài khoản thẻ tín dụng",
+          "detailNote": "Sau khi đóng thẻ vật lý/thẻ phát hành, quay về màn hình chính chọn mục \"Tài khoản\" → chọn \"Thẻ\" → chọn \"Tài khoản thẻ tín dụng\".",
+          "imageUrl": "https://raw.githubusercontent.com/kimnhi21000-tech/GIAIPHAPDONGTHEMOPT/main/1.4.JPEG",
+          "imageAlt": "Bước 4 - Quay lại màn hình chính chọn mục tài khoản, chọn thẻ, chọn tài khoản thẻ tín dụng (Ảnh 1.4)"
+        },
+        {
+          "stepNumber": 5,
+          "stepCode": "1.5",
+          "title": "Bước 5: Chọn Đóng tài khoản thẻ tín dụng",
+          "instruction": "Bước 5: Chọn Đóng tài khoản thẻ tín dụng",
+          "detailNote": "Trong chi tiết Tài khoản thẻ tín dụng, nhấn chọn mục \"Đóng tài khoản thẻ tín dụng\" để gửi yêu cầu tất toán/đóng tài khoản thẻ.",
+          "imageUrl": "https://raw.githubusercontent.com/kimnhi21000-tech/GIAIPHAPDONGTHEMOPT/main/1.5.JPEG",
+          "imageAlt": "Bước 5 - Chọn Đóng tài khoản thẻ tín dụng (Ảnh 1.5)"
+        },
+        {
+          "stepNumber": 6,
+          "stepCode": "1.6",
+          "title": "Bước 6: Màn hình thông báo điều kiện để đóng tài khoản TTD =>> Thoả điều kiện đóng tài khoản về hệ thống tự động mở phong toả sổ tiết kiệm online",
+          "instruction": "Bước 6: Màn hình thông báo điều kiện để đóng tài khoản TTD =>> Thoả điều kiện đóng tài khoản về hệ thống tự động mở phong toả sổ tiết kiệm onlien",
+          "detailNote": "Hệ thống hiển thị màn hình kiểm tra điều kiện đóng tài khoản thẻ tín dụng. Khi thoả mãn đầy đủ điều kiện đóng tài khoản, hệ thống sẽ tự động mở phong toả sổ tiết kiệm online của Quý khách.",
+          "imageUrl": "https://raw.githubusercontent.com/kimnhi21000-tech/GIAIPHAPDONGTHEMOPT/main/1.6.JPEG",
+          "imageAlt": "Bước 6 - Màn hình thông báo điều kiện đóng tài khoản TTD và tự động mở phong toả sổ tiết kiệm online (Ảnh 1.6)"
+        }
+      ]
+    }
+  ]
+}

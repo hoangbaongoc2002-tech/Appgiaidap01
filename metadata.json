@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank iPay — Hướng Dẫn Đóng Thẻ Tín Dụng & Mở Phong Toả Sổ Tiết Kiệm",
+  "description": "Cổng hướng dẫn khách hàng VietinBank thực hiện đóng thẻ tín dụng và mở phong toả sổ tiết kiệm phát hành thẻ online trên ứng dụng VietinBank iPay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
